@@ -8,3 +8,9 @@ p {
     background-color: aliceblue;
     padding: 10px;
 }
+
+ol {
+    color: brown;
+    background-color: burlywood;
+    margin-bottom: 5px;
+}
